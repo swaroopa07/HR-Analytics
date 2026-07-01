@@ -70,7 +70,7 @@ Experience Category
 
 Identified business trends using statistical summaries and visualizations
 
-3. SQL Analysis
+2. SQL Analysis
 
 Loaded the cleaned dataset into SQL Server and performed analytical queries including:
 
@@ -123,53 +123,93 @@ This dimensional model improves data organization, simplifies reporting, and fol
 Built an interactive HR Analytics Dashboard featuring:
 
 KPI Cards
+
 Total Employees
+
 Attrition Count
+
 Attrition Rate
+
 Average Salary
+
 Average Experience
+
 Average Salary Hike
+
 Dashboard Visuals
+
 Attrition by Department
+
 Salary by Job Role
+
 Salary by Experience
+
 Overtime vs Attrition
+
 Business Travel vs Attrition
+
 Gender Distribution
+
 Job Satisfaction Analysis
+
 Environment Satisfaction Analysis
+
 Relationship Satisfaction Analysis
+
 Salary Distribution by Department
+
 Interactive Features
+
 Department Slicer
+
 Job Role Slicer
+
 Education Slicer
+
 Gender Slicer
+
 Cross-filtering between visuals
 
 📈 Key Business Insights
 
 Employees working overtime exhibit a higher attrition rate than those who do not.
+
 Frequent business travel is associated with higher employee attrition.
+
 Average salary increases consistently with employee experience.
+
 Employees with low environment satisfaction have the highest attrition rate.
+
 Relationship satisfaction has a relatively smaller impact on attrition compared to work environment satisfaction.
+
 Salary hikes remain relatively consistent across employees regardless of the number of companies previously worked.
+
 Job mobility contributes more to higher base salary than to higher salary hike percentages.
 
 📊 Skills Demonstrated
 
 Data Cleaning
+
 Exploratory Data Analysis (EDA)
+
 Feature Engineering
+
 SQL Query Optimization
+
 Window Functions
+
 Common Table Expressions (CTEs)
+
 Star Schema Design
+
 Data Modeling
+
 DAX
+
 Dashboard Design
+
 Business Insight Generation
+
 Data Visualization
 
 🚀 Outcome
