@@ -1,17 +1,17 @@
 HR Analytics Dashboard | End-to-End Data Analytics Project
-Project Overview
+📌 Project Overview
 
 This project analyzes employee data from an HR dataset to identify factors influencing employee attrition, salary distribution, job satisfaction, overtime, and workforce performance. The project follows a complete data analytics workflow—from data preprocessing and exploratory analysis to SQL-based analytics, dimensional modeling, and interactive dashboard development in Power BI.
 
 The objective is to demonstrate an end-to-end analytics solution that transforms raw HR data into actionable business insights for HR managers and decision-makers.
 
-Business Objectives
+🎯 Business Objectives
 Analyze employee attrition across different departments and job roles.
 Identify factors affecting employee retention.
 Understand salary distribution across experience levels and job roles.
 Evaluate the impact of overtime, business travel, and satisfaction scores on attrition.
 Build an interactive HR dashboard for business stakeholders.
- Tech Stack
+🛠️ Tech Stack
 Python
 Pandas
 NumPy
@@ -28,7 +28,7 @@ DAX Measures
 Interactive Dashboard
 KPI Cards
 Slicers
-Project Workflow
+📂 Project Workflow
 1. Data Cleaning & Feature Engineering (Python)
 Imported HR dataset
 Checked missing values and duplicates
@@ -95,7 +95,7 @@ Job Role Slicer
 Education Slicer
 Gender Slicer
 Cross-filtering between visuals
- Key Business Insights
+📈 Key Business Insights
 Employees working overtime exhibit a higher attrition rate than those who do not.
 Frequent business travel is associated with higher employee attrition.
 Average salary increases consistently with employee experience.
@@ -103,7 +103,7 @@ Employees with low environment satisfaction have the highest attrition rate.
 Relationship satisfaction has a relatively smaller impact on attrition compared to work environment satisfaction.
 Salary hikes remain relatively consistent across employees regardless of the number of companies previously worked.
 Job mobility contributes more to higher base salary than to higher salary hike percentages.
-Skills Demonstrated
+📊 Skills Demonstrated
 Data Cleaning
 Exploratory Data Analysis (EDA)
 Feature Engineering
@@ -116,8 +116,10 @@ DAX
 Dashboard Design
 Business Insight Generation
 Data Visualization
+🚀 Outcome
 
- Outcome
 Developed an end-to-end HR Analytics solution that transforms raw employee data into interactive business intelligence dashboards, enabling HR teams to monitor workforce trends, identify attrition drivers, and support data-driven decision-making.
 
 📷 Dashboard Preview
+
+<img width="1175" height="656" alt="image" src="https://github.com/user-attachments/assets/2f5cb915-b096-44b3-81c3-16464b90671d" />
