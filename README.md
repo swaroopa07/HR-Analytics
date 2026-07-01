@@ -1,4 +1,5 @@
 HR Analytics Dashboard | End-to-End Data Analytics Project
+
 📌 Project Overview
 
 This project analyzes employee data from an HR dataset to identify factors influencing employee attrition, salary distribution, job satisfaction, overtime, and workforce performance. The project follows a complete data analytics workflow—from data preprocessing and exploratory analysis to SQL-based analytics, dimensional modeling, and interactive dashboard development in Power BI.
@@ -28,7 +29,9 @@ DAX Measures
 Interactive Dashboard
 KPI Cards
 Slicers
+
 📂 Project Workflow
+
 1. Data Cleaning & Feature Engineering (Python)
 Imported HR dataset
 Checked missing values and duplicates
@@ -37,7 +40,8 @@ Created new features including:
 Salary Band
 Experience Category
 Identified business trends using statistical summaries and visualizations
-2. SQL Analysis
+
+3. SQL Analysis
 
 Loaded the cleaned dataset into SQL Server and performed analytical queries including:
 
@@ -53,6 +57,7 @@ Average Salary by Department
 Employee Salary Ranking using Window Functions
 Above/Below Average Salary Analysis
 Common Table Expressions (CTEs) for reusable queries
+
 3. Data Modeling
 
 Designed a Star Schema by separating the dataset into fact and dimension tables.
@@ -95,6 +100,7 @@ Job Role Slicer
 Education Slicer
 Gender Slicer
 Cross-filtering between visuals
+
 📈 Key Business Insights
 Employees working overtime exhibit a higher attrition rate than those who do not.
 Frequent business travel is associated with higher employee attrition.
@@ -103,6 +109,7 @@ Employees with low environment satisfaction have the highest attrition rate.
 Relationship satisfaction has a relatively smaller impact on attrition compared to work environment satisfaction.
 Salary hikes remain relatively consistent across employees regardless of the number of companies previously worked.
 Job mobility contributes more to higher base salary than to higher salary hike percentages.
+
 📊 Skills Demonstrated
 Data Cleaning
 Exploratory Data Analysis (EDA)
@@ -116,6 +123,7 @@ DAX
 Dashboard Design
 Business Insight Generation
 Data Visualization
+
 🚀 Outcome
 
 Developed an end-to-end HR Analytics solution that transforms raw employee data into interactive business intelligence dashboards, enabling HR teams to monitor workforce trends, identify attrition drivers, and support data-driven decision-making.
